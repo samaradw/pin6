@@ -28,5 +28,6 @@ Follow the steps below. You may want to open this guide in a **new tab** so you 
    - _Don’t see it?_ Go to **Settings** → scroll to **Features** → check **"Discussions"**.
 3. Click **New discussion**.
 4. For the category, select **Announcements**.
-5. Use this title:  
+5. Use this title:  Welcome to our repository!
+
 
