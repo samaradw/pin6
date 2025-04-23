@@ -1,47 +1,36 @@
-## Step 2: Creating Git Tags
+# 📌 Step 2: Pin a Discussion Thread
 
-Git tags allow you to mark specific points in your repository's history as important. They're perfect for marking version releases.
+Great job creating a discussion! 🎉  
+Now let’s **pin** it to make it more visible to repository visitors.
 
-### :keyboard: Task: Create Your First Git Tag
+---
 
-You can create tags through the GitHub interface or using Git commands.
+## 📍 What is a pinned discussion?
 
-#### Using GitHub Web Interface:
+Pinned discussions appear at the **top** of the Discussions page in your repository. This is useful for highlighting:
 
-1. Navigate to your repository's "Code" tab
-2. Click on "Releases" in the right sidebar
-3. Click "Create a new release"
-4. Enter `v0.1.0` as your tag version
-5. Target the main branch
-6. Title your release "Initial Release"
-7. Add a description: "This is the first release of our project."
-8. Click "Publish release"
+- Important announcements  
+- Frequently asked questions (FAQs)  
+- Community guidelines  
+- Any content you want everyone to see first
 
-#### Using Git Command Line (Alternative Method):
+---
 
-```bash
-git tag -a v0.1.0 -m "Initial Release"
-git push origin v0.1.0
-```
+## 🎯 Activity: Pin your discussion
 
-### 🔖 Tag Naming Conventions
+Follow these steps:
 
-Best practices for tag names:
+1. Navigate to the **Discussions** tab in your repository.
+2. Find the discussion you created titled **"Welcome to our repository!"**
+3. Click the **three dots (⋯)** in the top-right corner of that discussion.
+4. Select **"Pin discussion"** from the dropdown.
 
-- Prefix with `v` (e.g., `v1.0.0`)
-- Use semantic versioning format
-- Avoid spaces or special characters
-- Be consistent across releases
+---
 
-### :keyboard: Task: Make Changes for New Version
+### 🔄 What’s next?
 
-1. Edit the `app.js` file again
-2. Add a simple function at the end:
-```javascript
-function newFeature() {
-  console.log("This is a new feature!");
-}
-```
-3. Update the version comment at the top to `// Version 0.2.0 - Added new feature`
-4. Commit your changes to a new branch
-5. Comment "tags-created" on this PR when complete
+Wait about **20 seconds**, then refresh this page (the one you're reading).  
+GitHub Actions will detect your pinned discussion and move you to the next step.
+
+> 📌 **Note:** When a discussion is pinned, a pin icon appears next to the title and it moves to the top of the list in the Discussions tab.
+
