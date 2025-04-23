@@ -7,47 +7,67 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Mastering Semantic Versioning and Releases
+# 📌 Pinning Important Threads & Responses
 
-_Learn how to effectively manage your project's evolution with semantic versioning tags and GitHub releases._
+_Engage with your community through GitHub Discussions and learn to highlight important content._
 
-</header>
+---
 
-# Step 1: Understanding Semantic Versioning
+## 🧭 Welcome
 
-Semantic Versioning (SemVer) is a versioning scheme that communicates meaning about the underlying changes in a release. It makes it easy for developers to understand the impact of upgrades.
+Communication is key to building a thriving community around your projects. GitHub Discussions provides a dedicated space for conversations that don’t necessarily belong in issues or pull requests. Learning how to effectively organize these discussions by pinning important threads and responses helps your community find critical information quickly and easily.
 
-## 📝 The SemVer Format
+---
 
-A semantic version number has three parts: **MAJOR.MINOR.PATCH**
+### 👥 Who is this for
+- Repository maintainers  
+- Community managers  
+- Open source contributors  
+- Developers and team leads  
+- Anyone looking to better organize GitHub Discussions
 
-Each number communicates specific kinds of changes:
+---
 
-- **MAJOR** version increments when you make incompatible API changes
-- **MINOR** version increments when you add functionality in a backward compatible manner
-- **PATCH** version increments when you make backward compatible bug fixes
+### 📚 What you'll learn
+- How to create GitHub Discussions  
+- How to pin important discussion threads  
+- How to highlight key responses by marking them as answers
 
-Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+---
 
-## 📝 SemVer Examples
+### 🏗 What you'll build
+You’ll set up and organize a discussion board for your repository, and practice pinning threads and marking important replies.
 
-Let's look at some examples:
+---
 
-- `1.0.0`: Initial release
-- `1.0.1`: Bug fixes, no new features
-- `1.1.0`: New features added, backward compatible
-- `2.0.0`: Breaking changes that require users to modify their code
-- `1.0.0-alpha`: Pre-release version
-- `1.0.0-beta.1`: Another pre-release version
+### ✅ Prerequisites
+Basic familiarity with GitHub repositories.  
+*If you're new, check out the [Introduction to GitHub](https://skills.github.com/) course first.*
 
-## :keyboard: Task: Make Your First Change
+---
 
-1. Navigate to the `app.js` file in your repository
-2. Click the edit (pencil) icon
-3. Edit the File by adding a comment to the bottom of the file: `// Version 0.1.0 - Initial version`
-4. Commit the change directly to a new branch, creating a Pull Request
-5. Create the Pull Request
-6. Comment "semver-understood" on this PR when complete
+### ⏱ How long it takes
+Less than **20 minutes** to complete.
+
+---
+
+## 🛠 In this course, you will:
+1. **Create a Discussion**  
+2. **Pin a Discussion Thread**  
+3. **Pin a Reply in a Discussion**
+
+---
+
+### 🚀 How to start this course
+
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=bryceshen1&template_name=base&owner=%40me&name=bryceshen1-base&description=My+clone+repository&visibility=public)
+
+1. Right-click **Start course** and open the link in a new tab.
+2. Fill out the form to create your own copy of the course repository.
+   - For owner, choose your personal account or organization.
+   - Public repositories are recommended, as private ones will [consume GitHub Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+3. Click **Create repository** and wait about 20 seconds.
+4. Refresh the page and follow the instructions in your new repository.
 
 <footer>
 
@@ -58,7 +78,7 @@ Let's look at some examples:
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/semantic-versioning) &bull; [GitHub status](https://www.githubstatus.com/)
+Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/review-pull-requests) &bull; [GitHub status](https://www.githubstatus.com/)
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
